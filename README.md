@@ -12,11 +12,16 @@
         font-size: 8lvw;
         color:rgb(219, 219, 219);
         text-align: center;
-        margin-top: 33vh;
+        margin-top: 3vh;
+      }
+      img {
+        text-align: center;
+        margin-top: 23vh;
       }
     </style>
   </head>
   <body>
+    <div><img src="https://raw.githubusercontent.com/nreitan/grantmakr-web/main/GM-logo-05.png" alt="Italian Trulli"></div>
     <h1>Good things come to those who wait</h1>
   </body>
 </html>
