@@ -15,7 +15,9 @@
         margin-top: 3vh;
       }
       img {
-        align: center;
+        opacity: 0.5;
+        margin-left: auto;
+        margin-right: auto;
         margin-top: 23vh;
       }
     </style>
