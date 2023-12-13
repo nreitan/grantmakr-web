@@ -14,7 +14,7 @@
         text-align: center;
         margin-top: 3vh;
       }
-      img {
+      .logo {
         opacity: 0.5;
         margin-left: auto;
         margin-right: auto;
@@ -23,7 +23,7 @@
     </style>
   </head>
   <body>
-    <div><img src="https://raw.githubusercontent.com/nreitan/grantmakr-web/main/GM-logo-05.png" alt="Italian Trulli"></div>
+    <div><img src="https://raw.githubusercontent.com/nreitan/grantmakr-web/main/GM-logo-05.png" alt="Italian Trulli" class="logo"></div>
     <h1>Good things come to those who wait</h1>
   </body>
 </html>
